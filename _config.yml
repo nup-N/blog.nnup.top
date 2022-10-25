@@ -1,7 +1,7 @@
 # Site settings
 title: Nnup's world
 SEOTitle: Nnup
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg.jpg
 email: iron-bat@foxmail.com
 description: "愿意今生约定，他生再拥抱"
 keyword: "pai, 唐唐, Nnup, TEST"
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 3e99b98dfe0131518162                            #生成的clientID
+  clientSecret: dcec9154e43c3e51d939dd525ff0b33053b35bc8    #生成的clientSecret
   repo: nnup.github.io    #仓库名称
   owner: Nnup-vid    #github用户名
   admin: Nnup-vid
