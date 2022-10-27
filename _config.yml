@@ -7,11 +7,11 @@ description: "愿意今生约定，他生再拥抱"
 keyword: "pai, 唐唐, Nnup, TEST"
 url: "http://nnup.fun"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-#github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+#github_repo: "https://github.com/Nnup-vid/Nnup-vid.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "4 AM"
+sidebar-about-description: "4 AM <br> 只做与正义无关的事"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
