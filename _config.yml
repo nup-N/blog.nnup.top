@@ -2,7 +2,7 @@
 title: Nnup's world
 SEOTitle: Nnup
 header-img: img/home-bg.jpg
-email: iron-bat@foxmail.com
+email: <a href="iron-bat@foxmail.com">iron-bat@foxmail.com</a>
 description: "愿意今生约定，他生再拥抱"
 keyword: "pai, 唐唐, Nnup, TEST"
 url: "http://nnup.fun"          # your host, for absolute URL
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: Nnup
 
 # Gitalk
 gitalk:
@@ -100,10 +100,10 @@ service-worker: true
 #friends: [
 #    {
 #        title: "WY",
-#        href: "http://zhengwuyang.com"
+#        href: "http://xxx.com"
 #    },{
 #        title: "简书·BY",
-#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#        href: "http://www.jianshu.com/u/xxx"
 #    },{
 #        title: "Apple",
 #        href: "https://apple.com"
