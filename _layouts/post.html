@@ -6,6 +6,25 @@ layout: default
 <!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
 <!-- <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" width="0" height="0"> -->
 
+<!--video ratio size-->
+<style type='text/css'>
+    .iframe-container {
+      /* 
+      padding-top 为高/宽的值
+      16:9 为 9/16=56.25%
+      */
+      padding-top: 56.25%;
+      position: relative;
+    }
+    .iframe-container iframe {
+       position: absolute;
+       height: 100%;
+       width: 100%;
+       top: 0;
+       left: 0;
+    }
+    </style>
+    
 <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
