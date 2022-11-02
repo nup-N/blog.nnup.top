@@ -102,7 +102,7 @@ service-worker: true
 #        title: "WY",
 #        href: "http://xxx.com"
 #    },{
-#        title: "简书·BY",
+#        title: "简书",
 #        href: "http://www.jianshu.com/u/xxx"
 #    },{
 #        title: "Apple",
