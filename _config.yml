@@ -95,22 +95,13 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-# Friends
-#friends: [
-#    {
-#        title: "xx",
-#        href: "http://xxx.com"
-#    },{
-#        title: "简书",
-#        href: "http://www.jianshu.com/u/xxx"
-#    },{
-#        title: "Apple",
-#        href: "https://apple.com"
-#    },{
-#        title: "Apple Developer",
-#        href: "https://developer.apple.com/"
-#    }
-#]
+ Friends
+friends: [
+    {
+        title: "",
+        href: "http://xxx.com"
+    }
+]
 
 plugins:
   - jekyll-sitemap
