@@ -84,9 +84,9 @@ ba_track_id: 0143ab0d89af3e1a246497f0be151238
 
 
 
-# Featured Tags
-featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
+# further Tags
+further-tags: true                     # 是否使用首页标签
+further-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
