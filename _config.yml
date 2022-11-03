@@ -11,7 +11,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "4 AM <br> 只做与正义无关的事"
+sidebar-about-description: "只做与正义无关的事"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 #friends: [
 #    {
-#        title: "WY",
+#        title: "xx",
 #        href: "http://xxx.com"
 #    },{
-#        title: "简书·BY",
+#        title: "简书",
 #        href: "http://www.jianshu.com/u/xxx"
 #    },{
 #        title: "Apple",
