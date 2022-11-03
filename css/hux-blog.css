@@ -176,8 +176,8 @@ article {
   overflow-x: hidden;
 }
 blockquote {
-  color: #808080;
-/*  font-style: italic;*/
+  color: #808080;   
+  /* font-style: italic; */
   font-size: 0.95em;
   margin: 20px 0 20px;
 }
