@@ -1,0 +1,18 @@
+# 欢迎使用由Nnup提供的国内CHATGPT服务
+
+**网站基于默认基于gpt3.5**
+
+访问链接：[ChatGpt](https://chat.nnup.fun/)
+
+1.无需科学上网，国内直连使用。
+2.第一次使用时请输入密码。
+3.也可使用自己的api来跳过密码。
+4.如需使用更新版本的gpt请自己在openai官网[申请api](https://platform.openai.com/account/api-keys)后在设置界面更改。
+5.面具是预设的gpt性格，默认设定了12种gpt的性格，也可自定义性格后保存面具。
+6.提供常见撰写需要的快捷提示，输入/触发补全。
+7.提供导出聊天记录等服务。
+8.持续更新中，有问题可以在下面评论出来。
+
+___Thanks___
+本站依托于[GitHub](https://github.com/Nnup-wang/gpt-web)，[Vercel](https://vercel.com/nnup)
+原作者是[Yidadaa](https://github.com/Yidadaa)，原项目地址[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
