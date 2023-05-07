@@ -59,17 +59,6 @@ layout: default
                     {% endfor %}
                 </ul>
                 {% endif %}
-
-                <!-- donate -->
-                {% if site.donate %}
-                <hr>
-                <h5>DONATE</h5>
-                <ul class="list-inline">
-                    {% for donate in site.donate %}
-                        <li><a href="{{donate.href}}">{{donate.title}}</a></li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
             </div>
         {% else %}
 
