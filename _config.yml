@@ -3,6 +3,8 @@ title: Nnup's world
 SEOTitle: Nnup
 header-img: img/home-bg.jpg
 email: <a href="mailto:iron-bat@foxmail.com">iron-bat@foxmail.com</a>
+<br>
+<a herf="bitcoin:bc1q29342fu2y0umw4ngef7v76c6j3t3ve96gsy0w0">💰 Bitcoin Address</a>
 description: "愿意今生约定，他生再拥抱"
 keyword: "pai, 唐唐, Nnup, TEST"
 url: "http://nnup.fun"          # your host, for absolute URL
@@ -107,12 +109,14 @@ friends: [
     }
 ]
 
+#Donate
 donate: [
   {
     title: "Bitcoin Address",
     href: "bitcoin:bc1q29342fu2y0umw4ngef7v76c6j3t3ve96gsy0w0"
   }
 ]
+
 
 plugins:
   - jekyll-sitemap
