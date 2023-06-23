@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 3e99b98dfe0131518162                            #生成的clientID
   clientSecret: 05933a21d61ea915f0b46e2114502e0824a6659a    #生成的clientSecret
-  repo: Nnup-vid.github.io    #仓库名称
+  repo: Nnup-wang.github.io    #仓库名称
   owner: Nnup-wang    #github用户名
   admin: Nnup-wang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
