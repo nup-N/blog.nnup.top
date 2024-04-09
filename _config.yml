@@ -6,7 +6,7 @@ email: <a href="mailto:admin@nnup.xyz">admin@nnup.xyz</a>
 description: "愿意今生约定，他生再拥抱"
 keyword: "Nnup, Blog"
 url: "nnup.fun"          # your host, for absolute URL
-baseurl: "nnup.xyz"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/Nnup-vid/Nnup-vid.github.io" # you code repository
 
 # Sidebar settings
