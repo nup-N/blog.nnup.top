@@ -68,6 +68,7 @@ gitalk:
   owner: Nnup-wang    #github用户名
   admin: Nnup-wang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  #https://blog.csdn.net/Keith_Prime/article/details/111604291
 
 
 # 统计
