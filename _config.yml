@@ -112,3 +112,4 @@ friends: [
 
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
