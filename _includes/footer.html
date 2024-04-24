@@ -104,6 +104,9 @@
     </div>
 </footer>
 
+<!-- script pointing to jekyll-search.js -->
+<script src="/js/simple-jekyll-search.min.js"></script>
+
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 
@@ -267,6 +270,18 @@
 </script>
 {% endif %}
 
+// Search Settings
+<script>
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+        noResultsText: 'No results found',
+        fuzzy: true
+    });
+</script>
+
 <!-- 动态背景跟随鼠标-->
 <script>
     //rgb颜色随机
@@ -363,6 +378,9 @@
         });
     });
     </script>
+
+
+
 
 <!-- 看板娘 -->
 <!-- <script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script> -->
