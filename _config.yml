@@ -60,7 +60,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论，域名更换后到github中重新设置域名https://github.com/gitalk/gitalk/issues/576
   clientID: 3e99b98dfe0131518162                            #生成的clientID
   clientSecret: 05933a21d61ea915f0b46e2114502e0824a6659a    #生成的clientSecret
   repo: gitalk-repo    #仓库名称
